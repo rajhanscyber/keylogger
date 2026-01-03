@@ -1,0 +1,4 @@
+Key.shiftRaj hans Key.shiftI j Key.shiftK
+Key.ctrl_l\x1a
+
+
